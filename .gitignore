@@ -1,0 +1,52 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment & Config
+.env
+*.env
+*.ini
+*.toml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Logs & Outputs
+*.log
+logs/
+*.out
+*.err
+
+# Data files (optional – keep only raw/clean dataset)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.swp
